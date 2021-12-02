@@ -19,7 +19,7 @@
 		<mysql.jdbc.version>5.1.13</mysql.jdbc.version>
 		<mongo-java-driver.version>2.7.3</mongo-java-driver.version>
 		<morphia.version>0.99</morphia.version>
-		<struts2.version>2.2.3</struts2.version>
+		<struts2.version>2.5.22</struts2.version>
 		<lucene.version>3.5.0</lucene.version>
 		<solr.version>3.5.0</solr.version>
 		<jersey.version>1.9.1</jersey.version>
