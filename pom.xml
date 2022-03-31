@@ -13,7 +13,7 @@
 	</organization>
 	<properties>
 		<!-- 主要依赖库的版本定义 -->
-		<spring.version>3.1.1.RELEASE</spring.version>
+		<spring.version>5.3.18</spring.version>
 		<hibernate.version>3.6.9.Final</hibernate.version>
 		<mybatis.version>3.0.4</mybatis.version>
 		<mysql.jdbc.version>5.1.13</mysql.jdbc.version>
